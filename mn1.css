@@ -6,6 +6,11 @@
     
 
 }
+img#rnlogo {
+    position: relative;
+    top: 60px;
+    left: -450px;
+}
 * { 
     font-family: Inter;
     
