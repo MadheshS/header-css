@@ -6,6 +6,11 @@
     
 
 }
+div#search {
+width:50%;
+left:400px;
+}
+
 img#rnlogo {
     position: relative;
     top: 60px;
