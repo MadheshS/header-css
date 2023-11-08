@@ -7,7 +7,10 @@
     border-top: 1px solid #eeeeee;
 
 }
-
+div#header_logo {
+    margin-bottom: 15px;
+    border-bottom: 1px solid #eeeeee;
+}
 div#search {
 width:50%;
 left:400px;
@@ -15,8 +18,8 @@ left:400px;
 
 img#rnlogo {
     position: relative;
-    top: 60px;
-    left: -650px;
+    top: 77px;
+    left: -675px;
 }
 * { 
     font-family: Inter;
